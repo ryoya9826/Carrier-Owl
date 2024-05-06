@@ -1,11 +1,18 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*'
+subject: 'cat:math.AG OR cat:math.AC OR cat:cs.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        noether: 3
+        Noetherian: 3
+        noetherian: 3
+        Cohen: 5
+        Macaulay: 5
+        transformer: 3
+        topos: 2
+        hereditary: 3
+        Diffusion ODEs: 3
+        Diffusion: 1
 
 # 通知の閾値
 score_threshold: 0
