@@ -8,11 +8,8 @@ keywords:
         noetherian: 3
         Cohen: 5
         Macaulay: 5
-        transformer: 3
         topos: 2
         hereditary: 3
-        Diffusion ODEs: 3
-        Diffusion: 1
 
 # 通知の閾値
 score_threshold: 0
